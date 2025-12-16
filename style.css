@@ -192,18 +192,10 @@ h2 {
   min-height: 100px;
 }
 
-.footer .copyright {
-  position: absolute;
-  bottom: 10px;
-  left: 20px;
-  margin: 0;
-  font-size: 0.9rem;
-}
-
 .footer .data {
   position: absolute;
   bottom: 10px;
-  right: 20px;
+  left: 20px;
   margin: 0;
   font-size: 0.9rem;
 }
