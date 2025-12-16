@@ -219,3 +219,7 @@ p {
 .padding {
   padding: 15px;
 }
+
+.without_margin {
+  margin-bottom: 0;
+}
